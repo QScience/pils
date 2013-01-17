@@ -2,4 +2,4 @@ name = Pils
 description = "Parsing Utils"
 package = Utils
 core = 7.x
-
+php = 5.3
